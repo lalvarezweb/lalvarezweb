@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalvarezweb&label=Profile%20views&color=0e75b6&style=flat" alt="lalvarezweb" /> </p>
 
-- 🌱 I’m currently learning **React & Next**
+- 🌱 I’m currently learning **Nuxt3 & Storyblok**
 
 - 📫 How to reach me **info@lalvarezweb.es**
 
