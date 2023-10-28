@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalvarezweb&label=Profile%20views&color=0e75b6&style=flat" alt="lalvarezweb" /> </p>
 
 # 💫 About Me:
-💻 Currently working as Junior FrontEnd Developer in The Rose Studio<br>🌱 I’m currently learning Nuxt3 & Storyblok<br>📫 How to reach me: info@lalvarezweb.es<br><br>
+💻 Currently working as FrontEnd Developer & SEO Specialist in The Rose Studio<br>🌱 I’m currently learning Nuxt3 & Storyblok<br>📫 How to reach me: info@lalvarezweb.es<br><br>
 
 
 ## 🌐 Socials:
